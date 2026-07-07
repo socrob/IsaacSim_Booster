@@ -11,7 +11,6 @@ The simulation includes
 
 - Booster humanoid robot
 - ROS 2 integration
-- Isaac Sim 5.1
 - Domestic RoboCup@Home environment
 - Camera sensor support
 - Collision handling
