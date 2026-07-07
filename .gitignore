@@ -1,0 +1,25 @@
+# ROS
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Shared libraries
+*.so
+*.a
+
+# Installers
+*.run
+
+# Temporary
+*.tmp
+*.cache
+
+# Git metadata from nested repositories
+**/.git
