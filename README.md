@@ -22,6 +22,7 @@ The simulation includes
 source /opt/ros/humble/setup.bash
 source package_extract_51/booster_ros2/install/setup.bash
 ```
+`colcon build`
 
 ### Start the Booster Environment
 
